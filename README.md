@@ -6,3 +6,5 @@
 [AIGC | 转3D工作流(三) 三视图](https://www.zcool.com.cn/article/ZMTU5ODEzMg==.html?)
 
 [腾讯 ARC Lab, Tencent PCG](https://huggingface.co/TencentARC?message=Request%20sent)
+
+[ComfyUI-wiki](https://github.com/602387193c/ComfyUI-wiki)
